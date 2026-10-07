@@ -8,8 +8,8 @@ This repository documents my progress through an AI & Data Science course, cover
 
 ## Structure
 
-- **Projects/** — Complete, standalone programs built by combining multiple concepts
-- Topic folders (added as the course progresses) — organized practice code by concept
+- **Projects/** - Complete, standalone programs built by combining multiple concepts
+- Topic folders (added as the course progresses) - organized practice code by concept
 
 ## Projects
 
