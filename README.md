@@ -23,4 +23,4 @@ Python fundamentals, loops, conditionals, string manipulation, lists, 2D lists, 
 
 ## Status
 
-🔄 In progress — actively learning and adding new work
+🔄 In progress - actively learning and adding new work
