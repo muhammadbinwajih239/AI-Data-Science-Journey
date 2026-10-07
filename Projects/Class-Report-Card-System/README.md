@@ -21,8 +21,8 @@ A Python program that collects student records and generates a full report — b
 
 ## How to Run
 
-'''
+```
 python report_card.py
-'''
+```
 
 You'll be prompted to enter the number of students, then each student's name and marks in turn.
