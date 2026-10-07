@@ -1,6 +1,6 @@
 # AI & Data Science Journey
 
-My learning journey through AI & Data Science — Python fundamentals, data structures, and real projects as I build them.
+My learning journey through AI & Data Science - Python fundamentals, data structures, and real projects as I build them.
 
 ## About
 
