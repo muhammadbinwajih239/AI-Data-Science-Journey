@@ -1,6 +1,6 @@
 # Class Report Card System
 
-A Python program that collects student records and generates a full report — built as a combined project applying everything learned from Classes 1–9 of my AI & Data Science course.
+A Python program that collects student records and generates a full report. I built it by applying Python fundamentals, conditional logic (if-elif-else and nested conditions), loops, and string processing - combining everything into one working project.
 
 ## What It Does
 
